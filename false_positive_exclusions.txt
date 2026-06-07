@@ -5,7 +5,9 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Carbonmade
 Codolio
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -15,6 +17,7 @@ Hubski
 LessWrong
 Patched
 Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -25,6 +28,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
@@ -37,4 +41,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
